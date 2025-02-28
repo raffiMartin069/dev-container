@@ -59,9 +59,9 @@
 		}
 	},
 
-	"mounts": [
-		"type=bind,source=host/machine/path,target=/mnt/c/sample/target",
-	],
+	// "mounts": [
+	// 	"type=bind,source=host/machine/path,target=/mnt/c/sample/target",
+	// ],
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
